@@ -1,0 +1,2 @@
+# Mimzy
+JS Class
